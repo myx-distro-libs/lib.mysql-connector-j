@@ -1,0 +1,6 @@
+{
+	name : 'ae3.pkg.lib.db.mysql',
+	title : 'AE3 Library Wrapper: JDBC Drivers for MySQL Database',
+	provides : 'mysql-db',
+	requires : 'java'
+}

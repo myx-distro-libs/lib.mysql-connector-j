@@ -1,0 +1,7 @@
+Name: lib.mysql-connector-j
+Provides: \
+	lib.mysql-connector-j \
+	ae3.pkg.lib.db.mysql \
+	--source-process:compile-java \
+	source-process:ae3-packages \
+
